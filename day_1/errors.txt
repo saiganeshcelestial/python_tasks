@@ -1,0 +1,2 @@
+2026-03-23 10:03:16 ERROR Something failed
+2026-03-23 10:03:21 ERROR Something failed
