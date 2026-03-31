@@ -1,0 +1,15 @@
+2026-03-23 15:58:20 - INFO - main - App: TaskAPI | Debug: False | DB: ./data
+2026-03-23 15:58:46 - INFO - middleware - 2026-03-23 15:58:46 | GET /docs | Status: 200 | Time: 0ms
+2026-03-23 15:58:46 - INFO - middleware - 2026-03-23 15:58:46 | GET /openapi.json | Status: 200 | Time: 55ms
+2026-03-23 16:07:29 - INFO - task_service - Task created: id=1 title='My First Task'
+2026-03-23 16:07:29 - INFO - middleware - 2026-03-23 16:07:29 | POST /tasks | Status: 201 | Time: 38ms
+2026-03-23 16:08:34 - INFO - middleware - 2026-03-23 16:08:34 | GET /health | Status: 200 | Time: 14ms
+2026-03-23 16:09:09 - INFO - middleware - 2026-03-23 16:09:09 | GET /health | Status: 200 | Time: 2ms
+2026-03-23 16:09:43 - INFO - middleware - 2026-03-23 16:09:43 | GET /tasks/1 | Status: 200 | Time: 11ms
+2026-03-23 16:11:20 - INFO - middleware - 2026-03-23 16:11:20 | GET /tasks | Status: 200 | Time: 4ms
+2026-03-23 16:48:00 - INFO - middleware - 2026-03-23 16:48:00 | GET /health | Status: 200 | Time: 1ms
+2026-03-23 16:48:00 - INFO - middleware - 2026-03-23 16:48:00 | GET /favicon.ico | Status: 404 | Time: 0ms
+2026-03-24 09:48:15 - INFO - middleware - 2026-03-24 09:48:15 | GET / | Status: 404 | Time: 7ms
+2026-03-24 18:39:28 - INFO - main - App: TaskAPI | Debug: False | DB: ./data
+2026-03-24 18:39:55 - INFO - main - App: TaskAPI | Debug: False | DB: ./data
+2026-03-25 10:08:08 - INFO - main - App: TaskAPI | Debug: False | DB: ./data

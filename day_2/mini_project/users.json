@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "alice",
+      "email": "alice@mail.com",
+      "password": "securepass123",
+      "created_at": "2026-03-20T09:00:00"
+    },
+    {
+      "id": 2,
+      "username": "bob",
+      "email": "bob@mail.com",
+      "password": "bobpassword",
+      "created_at": "2026-03-20T09:05:00"
+    }
+  ]
+}

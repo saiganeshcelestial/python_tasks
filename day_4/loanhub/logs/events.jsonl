@@ -1,0 +1,2 @@
+{"event_type": "loan_applied", "timestamp": "2026-03-26T12:47:10.990562+00:00", "loan_id": 1, "username": "saiganesh", "detail": "New loan application #1 by 'saiganesh' for personal \u2014 \u20b910000"}
+{"event_type": "loan_applied", "timestamp": "2026-03-26T13:35:08.132936+00:00", "loan_id": 2, "username": "ganesh", "detail": "New loan application #2 by 'ganesh' for home \u2014 \u20b920000"}
